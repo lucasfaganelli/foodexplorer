@@ -26,7 +26,7 @@ O Food Explorer é uma incrível aplicação web que simula um cardápio interat
        
 ````
     e-mail: admin@email.com
-    senha:  123
+    senha:  123456
 ````
 
 <h3>Requisitos</h3>
